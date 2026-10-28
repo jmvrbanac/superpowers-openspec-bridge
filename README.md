@@ -1,4 +1,4 @@
-# openspec-schemas
+# superpowers-openspec-bridge
 
 > **Note:** This is a fork of [JiangWay/openspec-schemas](https://github.com/JiangWay/openspec-schemas). It has been converted to English-only (the upstream docs included Traditional Chinese) so that everything is in a language the fork's maintainer personally reads.
 

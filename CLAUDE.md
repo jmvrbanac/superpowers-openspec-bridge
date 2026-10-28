@@ -10,7 +10,7 @@
 ## Structure
 
 ```
-openspec-schemas/                     ← this repo
+superpowers-openspec-bridge/                     ← this repo
 ├── README.md                         ← rendered by default on GitHub
 ├── CLAUDE.md                         ← you are reading this
 ├── LICENSE                           ← MIT
@@ -42,7 +42,7 @@ To add a new bridge: add a `<new-bridge>/` subdirectory at the repo root with th
 ## Naming conventions
 
 - **Repo / directory / schema name**: lowercase + hyphen + correct singular/plural
-  - repo: `openspec-schemas` (plural; can hold multiple bridges)
+  - repo: `superpowers-openspec-bridge`
   - bridge dir / schema name: `superpowers-bridge` (singular)
   - No PascalCase (OpenSpec's own repo uses `OpenSpec`, but its CLI / npm package are lowercase; we follow the functional naming)
 
