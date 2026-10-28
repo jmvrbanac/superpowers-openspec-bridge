@@ -1,6 +1,6 @@
-# openspec-schemas
+<!-- This repo was converted to English-only so that its docs are in a language the maintainer personally reads. -->
 
-[English](./README.md) · [繁體中文](./README.zh-TW.md)
+# openspec-schemas
 
 Community-contributed [OpenSpec](https://github.com/Fission-AI/OpenSpec) schemas. Each schema is a self-contained bundle that you copy into your project's `openspec/schemas/` directory and select per-change with `--schema <name>`.
 
