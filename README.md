@@ -1,6 +1,6 @@
-<!-- This repo was converted to English-only so that its docs are in a language the maintainer personally reads. -->
-
 # openspec-schemas
+
+> **Note:** This is a fork of [JiangWay/openspec-schemas](https://github.com/JiangWay/openspec-schemas). It has been converted to English-only (the upstream docs included Traditional Chinese) so that everything is in a language the fork's maintainer personally reads.
 
 Community-contributed [OpenSpec](https://github.com/Fission-AI/OpenSpec) schemas. Each schema is a self-contained bundle that you copy into your project's `openspec/schemas/` directory and select per-change with `--schema <name>`.
 
